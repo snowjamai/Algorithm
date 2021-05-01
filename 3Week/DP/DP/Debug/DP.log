@@ -1,4 +1,8 @@
-﻿  2193.cpp
-d:\git\algorithm\3week\dp\dp\2193.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  9465.cpp
+d:\git\algorithm\3week\dp\dp\9465.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+d:\git\algorithm\3week\dp\dp\9465.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+d:\git\algorithm\3week\dp\dp\9465.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
   DP.vcxproj -> D:\git\Algorithm\3Week\DP\Debug\DP.exe
