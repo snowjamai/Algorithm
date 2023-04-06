@@ -21,4 +21,4 @@
 
 ## 트리 종류
 
-[이진트리](bimaray_tree.md)
+[이진트리](binary_tree.md)
